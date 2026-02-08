@@ -130,7 +130,7 @@ class _TasksWidgetState extends State<TasksWidget> {
                               context.goNamedAuth(
                                   LoginWidget.routeName, context.mounted);
                             },
-                            text: 'Sign Out',
+                            text: 'Log Out',
                             icon: Icon(
                               Icons.logout,
                               size: 15.0,

@@ -131,7 +131,7 @@ class _CompletedWidgetState extends State<CompletedWidget> {
                               context.goNamedAuth(
                                   LoginWidget.routeName, context.mounted);
                             },
-                            text: 'Sign Out',
+                            text: 'Log Out',
                             icon: Icon(
                               Icons.logout,
                               size: 15.0,
